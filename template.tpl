@@ -33,6 +33,7 @@ ___TEMPLATE_PARAMETERS___
     "type": "TEXT",
     "name": "pixel_id",
     "displayName": "Facebook Pixel ID",
+    "categories": ["CONVERSIONS", "MARKETING", "REMARKETING"],
     "simpleValueType": true,
     "valueHint": "e.g. 12345678910",
     "valueValidators": [
